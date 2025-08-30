@@ -1,2 +1,5 @@
 # MCS-Sim
-The code and a sample dataset will be made publicly available soon. Additionally, a comprehensive dataset is scheduled for release upon completion of systematic processing and organization.
+The sample dataset is publicly available: 
+https://pan.baidu.com/s/1bUTk_6qoL3rLy291pwbGWQ?pwd=e8v8     (CODE: e8v8)
+
+Additionally, a comprehensive dataset is scheduled for release upon completion of systematic processing and organization.
