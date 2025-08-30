@@ -1,4 +1,9 @@
 # MCS-Sim
+
+This work presents MCS-Sim.
+
+![teaser](simulator_architecture.png)
+
 The sample dataset is publicly available: 
 https://pan.baidu.com/s/1bUTk_6qoL3rLy291pwbGWQ?pwd=e8v8     (CODE: e8v8)
 
